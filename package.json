@@ -1,0 +1,22 @@
+{
+  "name": "@nahisaho/spread1000-researcher",
+  "version": "0.1.0",
+  "description": "SPReAD-1000 申請者の研究実績・資金獲得・革新性を調査し6軸5段階で評価する Agent Skills スイート",
+  "main": "spread1000-researcher/AGENTS.md",
+  "files": [
+    "spread1000-researcher/"
+  ],
+  "keywords": [
+    "agent-skills",
+    "researcher-survey",
+    "spread1000",
+    "evaluation",
+    "copilot"
+  ],
+  "author": "nahisaho",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nahisaho/spread1000-researcher.git"
+  }
+}
