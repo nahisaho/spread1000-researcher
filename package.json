@@ -1,11 +1,15 @@
 {
   "name": "@nahisaho/spread1000-researcher",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "SPReAD-1000 申請者の研究実績・資金獲得・革新性を調査し6軸5段階で評価する Agent Skills スイート",
   "main": "spread1000-researcher/AGENTS.md",
+  "scripts": {
+    "postinstall": "node postinstall.js"
+  },
   "files": [
     "spread1000-researcher/",
-    ".github/"
+    ".github/",
+    "postinstall.js"
   ],
   "keywords": [
     "agent-skills",
